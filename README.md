@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/buekoefoed/travisGettingStarted.svg?branch=master)](https://travis-ci.org/buekoefoed/travisGettingStarted)
 
 Ultra simple Java Project meant for a Travis introduction
 
